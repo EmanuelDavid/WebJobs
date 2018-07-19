@@ -1,4 +1,4 @@
-﻿namespace WebJob
+﻿namespace WebJob.Entities
 {
     public class ActionDescription
     {
